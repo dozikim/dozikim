@@ -1,7 +1,8 @@
 # Dozikim
 
-
-![Header Image](https://64.media.tumblr.com/f9fc70180d82ec9095a40ff55c41a88f/tumblr_p4ba3nrW651vsa8c6o1_540.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Header Image">
+</p>
 
 
 
