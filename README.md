@@ -1,6 +1,7 @@
 # Dozikim
 
-![Dozikim](https://gifs.alphacoders.com/gifs/view/221920.gif)
+
+![Header Image](https://giffiles.alphacoders.com/262/26205.gif)
 
 
 
