@@ -55,7 +55,7 @@ Contributions are always welcome! If you find a bug, have a suggestion, or want 
 You can reach out to me on:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dozikim)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dozikim_96/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bharat_sharma_96_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-sharma-6963a8334/)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dozikim/dozikim)
 
