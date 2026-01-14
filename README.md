@@ -56,16 +56,10 @@ You can reach out to me on:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dozikim)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bharat_sharma_96_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-sharma-6963a8334/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharatsharma96/)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dozikim/dozikim)
 
 Let's work together to make the digital world a safer place!
-
----
-
-## 📜 License
-
-This repository is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
 
