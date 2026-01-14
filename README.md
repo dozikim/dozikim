@@ -12,7 +12,7 @@ Welcome to **Dozikim**, a project crafted with passion and a curiosity for uncov
 
 ## 🌟 About Me
 
-Hi, I am **Bharat Sharma**, a 2nd-year Cybersecurity student with a keen interest in bug bounty hunting. I enjoy finding security flaws and making systems safer for everyone. I believe in the power of knowledge sharing and continuous learning.
+Hi, I am **Bharat Sharma**, Cybersecurity student with a keen interest in bug bounty hunting. I enjoy finding security flaws and making systems safer for everyone. I believe in the power of knowledge sharing and continuous learning.
 
 ---
 
