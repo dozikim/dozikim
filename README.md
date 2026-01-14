@@ -22,7 +22,7 @@ Here are some of the tools and technologies I work with:
 
 - **Programming Languages**: C, Java, JavaScript, Python, Bash
 - **Web Development**: HTML, CSS
-- **Operating Systems**: Linux
+- **Operating Systems**: Linux, Windows, Android
 
 ---
 
